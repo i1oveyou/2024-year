@@ -15,7 +15,9 @@ header:
     - name: Home
       slug: /
     - name: 工作
+      slug: /work
     - name: 日记
+      slug: /blog
 footer:
   show_powered_by: true
   contact:
