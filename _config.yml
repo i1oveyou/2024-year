@@ -1,8 +1,8 @@
 remote_theme: eliottvincent/bay
 
-title: demo
+title: count time
 description: >- # this means to ignore newlines until "baseurl:"
-  demo.
+  Record every day
 baseurl: "/2024-year" # the subpath of the site
 url: "https:///i1oveyou.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
@@ -13,9 +13,9 @@ google_analytics: "UA-121636368-3"
 header:
   pages:
     - name: Home
-    - name: Blog  # <-- blog.md
-      slug: /     # <-- index.md
-    - name: Whatever  # <-- whatever.md
+      slug: /
+    - name: 工作
+    - name: 日记
 footer:
   show_powered_by: true
   contact:
