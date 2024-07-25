@@ -1,0 +1,49 @@
+remote_theme: eliottvincent/bay
+
+title: demo
+description: >- # this means to ignore newlines until "baseurl:"
+  demo.
+baseurl: "/2024-year" # the subpath of the site
+url: "https:///i1oveyou.github.io" # the base hostname & protocol for the site
+og_image: /assets/img/profile-pic.jpg
+google_analytics: "UA-121636368-3"
+
+
+
+header:
+  pages:
+    - name: Home
+    - name: Blog  # <-- blog.md
+      slug: /     # <-- index.md
+    - name: Whatever  # <-- whatever.md
+footer:
+  show_powered_by: true
+  contact:
+    - type: email
+      name: Email
+      value: resmile0927@gmail.com
+    - type: wechat
+      value: YourWeChatUsername
+      link: "#"
+  follow:
+    - type: twitter
+      name: Twitter
+      link: http://twitter.com/YourTwitterUsername
+      username: "@YourTwitterUsername"
+    # - type: facebook
+    #   name: Facebook
+    #   link: http://facebook.com/YourFacebookUsername
+    # - type: linkedin
+    #   name: LinkedIn
+    #   link: http://linkedin.com/in/YourLinkedInUsername
+    - type: github
+      name: GitHub
+      link: http://github.com/redqx
+    # - type: dribbble
+    #   name: Dribbble
+    #   link: https://dribbble.com/YourDribbbleUsername
+    - type: rss
+      name: RSS
+      link: /feed.xml
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
