@@ -12,8 +12,10 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
+    - name: 首页
       slug: /blog
+    - name: 根目录
+      slug: https:///i1oveyou.github.io
 footer:
   show_powered_by: true
   contact:
