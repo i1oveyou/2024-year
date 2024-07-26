@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "周三"
-date:   2024-07-24 10:00:40
+title: 2024-07-24-Wednesday
+date: 2024-07-24 10:00:40
 ---
 
 

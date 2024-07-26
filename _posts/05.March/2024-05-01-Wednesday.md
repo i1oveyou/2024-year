@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "周三"
-date:   2024-05-01 10:00:40
+title: 2024-05-01-Wednesday
+date: 2024-05-01 10:00:40
 ---
 
 # to-do-list
