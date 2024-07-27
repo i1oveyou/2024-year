@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "strictLineBreaks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "_posts/img"
 }

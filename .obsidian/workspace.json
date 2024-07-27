@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "15ceeba9b0d4b353",
+        "id": "7b232040572bcd47",
         "type": "tabs",
         "children": [
           {
-            "id": "df66034e6f6affce",
+            "id": "7edd78689a4cc8a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/07.July/2024-07-27-Saturday.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -52,14 +57,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "f0e8750071735430",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -70,60 +67,7 @@
   "right": {
     "id": "33f835b4c67c9c31",
     "type": "split",
-    "children": [
-      {
-        "id": "137eb0edfd7d83a4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "882aa74b459a1d75",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b3d908b070d07853",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "887ec867f736fa15",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "648881411ced25a8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -131,17 +75,18 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "df66034e6f6affce",
+  "active": "7edd78689a4cc8a8",
   "lastOpenFiles": [
-    "_posts/2025-01-01-yearly-summery.md",
+    "_posts/07.July/2024-07-26-Friday.md",
+    "_posts/07.July/2024-07-27-Saturday.md",
+    "_posts/07.July/Untitled.md",
     "_posts/07.July/2024-07-25-Thursday.md",
+    "_posts/2025-01-01-yearly-summery.md",
+    "index.md",
+    "assets/2001-09-27-Thursday.md",
     "_posts/07.July/2024-07-24-Wednesday.md",
     "_posts/06.June/2024-06-24-Monday.md",
     "_posts/05.March/2024-05-13-Monday.md",
