@@ -3,5 +3,7 @@
   "useMarkdownLinks": true,
   "strictLineBreaks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "_posts/img"
+  "attachmentFolderPath": "_posts/img",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
 }
