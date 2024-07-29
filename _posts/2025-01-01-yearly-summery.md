@@ -6,6 +6,12 @@ date:   2025-01-01 10:00:40
 
 # ^-^
 
+```
+./img/ 
+==>
+https://raw.githubusercontent.com/i1oveyou/2024-year/master/_posts/img/
+```
+
 
 
 理论是你知道是这样，但它却不好用；

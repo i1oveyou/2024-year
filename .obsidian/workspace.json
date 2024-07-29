@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/07.July/2024-07-27-Saturday.md",
+                "file": "_posts/07.July/2024-07-28-Sunday.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,19 +74,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "daily-notes:打开/创建今天的日记": false
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "b77fc29a1c3b775e",
   "lastOpenFiles": [
     "_posts/2025-01-01-yearly-summery.md",
     "assets/2001-09-27-Thursday.md",
+    "_posts/07.July/2024-07-28-Sunday.md",
+    "_posts/07.July/2024-07-27-Saturday.md",
+    "_posts/2024-07-29-星期一.md",
+    "_posts/07.July/2024-07-26-Friday.md",
     "404.md",
     "index.md",
-    "_posts/07.July/2024-07-27-Saturday.md",
     "_posts/img/image-20240728094308324.png",
-    "_posts/07.July/2024-07-26-Friday.md",
     "_posts/07.July/Untitled.md",
     "_posts/07.July/2024-07-25-Thursday.md",
     "_posts/07.July/2024-07-24-Wednesday.md",
