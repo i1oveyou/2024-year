@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "73bb4e8b1751d45c",
+        "id": "3711b2b902f52011",
         "type": "tabs",
         "children": [
           {
-            "id": "b77fc29a1c3b775e",
+            "id": "7e906c799eab4d42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/07.July/2024-07-28-Sunday.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,18 +73,20 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "b77fc29a1c3b775e",
+  "active": "7e906c799eab4d42",
   "lastOpenFiles": [
+    "_posts/07.July/2024-07-30-Tuesday.md",
+    "_posts/07.July/2024-07-28-Sunday.md",
+    "_posts/07.July/2024-07-29-Tuesday.md",
+    "_posts/07.July/Untitled.md",
+    "_posts/07.July/2024-07-27-Saturday.md",
     "_posts/2025-01-01-yearly-summery.md",
     "assets/2001-09-27-Thursday.md",
-    "_posts/07.July/2024-07-28-Sunday.md",
-    "_posts/07.July/2024-07-27-Saturday.md",
     "_posts/2024-07-29-星期一.md",
     "_posts/07.July/2024-07-26-Friday.md",
     "404.md",
     "index.md",
     "_posts/img/image-20240728094308324.png",
-    "_posts/07.July/Untitled.md",
     "_posts/07.July/2024-07-25-Thursday.md",
     "_posts/07.July/2024-07-24-Wednesday.md",
     "_posts/06.June/2024-06-24-Monday.md",
