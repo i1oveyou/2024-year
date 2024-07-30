@@ -11,8 +11,13 @@
             "id": "7e906c799eab4d42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/07.July/2024-07-29-Monday.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -77,7 +82,7 @@
   "lastOpenFiles": [
     "_posts/07.July/2024-07-30-Tuesday.md",
     "_posts/07.July/2024-07-28-Sunday.md",
-    "_posts/07.July/2024-07-29-Tuesday.md",
+    "_posts/07.July/2024-07-29-Monday.md",
     "_posts/07.July/Untitled.md",
     "_posts/07.July/2024-07-27-Saturday.md",
     "_posts/2025-01-01-yearly-summery.md",
