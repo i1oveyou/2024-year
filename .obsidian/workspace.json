@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/07.July/2024-07-30-Tuesday.md",
+                "file": "_posts/07.July/2024-07-31-Wednesday.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,12 +74,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "daily-notes:Open today's daily note": false
+      "switcher:打开快速切换": false,
+      "daily-notes:打开/创建今天的日记": false
     }
   },
   "active": "7e906c799eab4d42",
   "lastOpenFiles": [
+    "_posts/07.July/2024-08-01-Thursday.md",
     "_posts/07.July/2024-07-31-Wednesday.md",
     "_posts/07.July/2024-07-30-Tuesday.md",
     "_posts/07.July/2024-07-29-Monday.md",
