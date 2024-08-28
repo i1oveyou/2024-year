@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08.August/2024-08-21-Wednesday.md",
+                "file": "08.August/2024-08-26-Monday.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,16 +78,19 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "bad05a581b8cb7a5",
+  "active": "7e906c799eab4d42",
   "lastOpenFiles": [
+    "08.August/2024-08-27-Tuesday.md",
+    "img/image-20240828100218410.png",
+    "2025-01-01-yearly-summery.md",
+    "08.August/2024-08-26-Monday.md",
     "08.August/2024-08-22-Thursday.md",
-    "08.August/2024-08-18-Sunday.md",
     "08.August/2024-08-21-Wednesday.md",
+    "08.August/2024-08-18-Sunday.md",
     "img/image-20240822215506672.png",
     "img/image-20240822215757868 1.png",
     "img/image-20240822215757867 1.png",
     "img/image-20240822215506672 1.png",
-    "2025-01-01-yearly-summery.md",
     "08.August/img",
     "08.August/2024-08-16-Friday.md",
     "08.August/2024-08-17-Saturday.md",
@@ -96,7 +99,6 @@
     "img/image-20240822215757867.png",
     "img/image-20240813002746300.png",
     "img/image-20240813002704092.png",
-    "image-20240813002746300.png.jpeg",
     "08.August/2024-08-14-Wednesday.md",
     "08.August/2024-08-13-Thursday.md",
     "temple/2001-09-27-Thursday.md",
@@ -115,8 +117,6 @@
     "_posts/07.July/2024-08-01-Thursday.md",
     "_posts/07.July/2024-07-30-Tuesday.md",
     "_posts/07.July/2024-07-29-Monday.md",
-    "_posts/07.July/2024-07-28-Sunday.md",
-    "_posts/07.July/Untitled.md",
-    "_posts/07.July/2024-07-27-Saturday.md"
+    "_posts/07.July/2024-07-28-Sunday.md"
   ]
 }
