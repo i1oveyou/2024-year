@@ -1,10 +1,14 @@
 ---
 layout: post
 title:  "2024-年度报告-未完成"
-date:   2025-01-01 10:00:40
+date:   2024-01-01 00:00:00 +0800
 ---
 
-# ^-^
+
+
+# task
+
+
 
 ```
 ./img/ 
@@ -12,13 +16,15 @@ date:   2025-01-01 10:00:40
 https://raw.githubusercontent.com/i1oveyou/2024-year/master/_posts/img/
 ```
 
+ 
+
+# yourday
 
 
-理论是你知道是这样，但它却不好用；
 
-实践是它很好用，但你不知道是为什么；
+# thinkking
 
-程序员将理论和实践结合到一起：既不好用，也不知道是为什么。
+
 
 
 
