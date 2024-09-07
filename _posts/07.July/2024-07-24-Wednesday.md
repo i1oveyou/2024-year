@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-07-24-Wednesday
+title: 2024-07-24-周三
 date: 2024-07-24 10:00:40
 ---
 
