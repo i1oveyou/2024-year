@@ -23,13 +23,13 @@ footer:
       name: Email
       value: resmile0927@gmail.com
     - type: wechat
-      value: YourWeChatUsername
+      value: wechat
       link: "#"
   follow:
     - type: twitter
       name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
+      link: https://x.com/smilere441915
+      username: "@smilere441915"
     # - type: facebook
     #   name: Facebook
     #   link: http://facebook.com/YourFacebookUsername
