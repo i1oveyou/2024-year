@@ -2,21 +2,22 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: 关于本站
+  - title: 关于2024这一年
     entries:
-      - title: 此去经年，应是良辰好景虚设。
-      - title: 便纵有千种风情，更与何人说？
+      - title: 今年22岁
+      - title: 大学四年级
 
+  - title: rss
+    url: feed.xml
 
   - title: all posts
     post_list:
       limit: 357
       show_more: false
       show_more_text: See more posts...
-      show_more_url: category/archive.html
+      show_more_url: archive.html
   
-  - title: rss
-    url: feed.xml
+ 
   # - title: another list
   #   entries:
   #     - title: with subitems
