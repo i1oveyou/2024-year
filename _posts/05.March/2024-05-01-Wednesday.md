@@ -44,17 +44,19 @@ date: 2024-05-01 10:00:40
 
 　　这一张，主要是想拍那个蝴蝶，有很多蝴蝶的，白色，依附在植物的顶端，走过去拍，它就会飞走，像是有敌人要伤害它似的，她敏感了。当时我的脑袋还想到了“庄周梦蝶”。原古诗是：庄生晓梦迷蝴蝶，望帝春心托杜鹃。
 
-![image-20240502180335826](https://raw.githubusercontent.com/i1oveyou/2024-year/master/_posts/img/image-20240502180335826.png)　
-![image-20240502180608300](https://raw.githubusercontent.com/i1oveyou/2024-year/master/_posts/img/image-20240502180608300.png)
+![image-20240502180335826](https://raw.githubusercontent.com/i1oveyou/2024-year/master/_posts/img/image-20240502180335826.png)
+
 
 　　路上我也碰到了很多花，有白色的，红色的，我记得我拍了黄色的，这个是我从终点往回骑拍的，因为视角的原因，我没去在去的方向拍摄。用一句诗形容我的感觉：乱花渐欲迷人眼，浅草才能没马蹄。
 
 ![image-20240502180636631](https://raw.githubusercontent.com/i1oveyou/2024-year/master/_posts/img/image-20240502180636631.png)
+
 ![image-20240502180942559](https://raw.githubusercontent.com/i1oveyou/2024-year/master/_posts/img/image-20240502180942559.png)
 
 　　我确实拍了红色的花，但红色的花逊色些，没那么活泼茂密。但这并不影响我回忆一首诗：晓看红湿处，花重锦官城。
 
 ![image-20240502180819844](https://raw.githubusercontent.com/i1oveyou/2024-year/master/_posts/img/image-20240502180819844.png)
+
 ![image-20240502180845444](https://raw.githubusercontent.com/i1oveyou/2024-year/master/_posts/img/image-20240502180845444.png)
 
 树我也拍，主要是它们绿到我心里去了，忍不住拍几张。
