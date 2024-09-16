@@ -1,49 +1,29 @@
-remote_theme: eliottvincent/bay
+title: 2024日记 # name of the site
+author: xiangmouren # name of site's author
+email: resmile0927@gmail.com # email of site's author
+url: https://i1oveyou.github.io # root address of the site
+baseurl: "/2024-year" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
+  香香的日常-流水账作文
 
-title: 阿香正传
-description: >- # this means to ignore newlines until "baseurl:"
-  描绘时间的轮廓
-baseurl: "/2024-year" # the subpath of the site
-url: "https:///i1oveyou.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-121636368-3"
+permalink: /:month/:day/:title
+
+favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+
+#theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+remote_theme: riggraz/no-style-please
 
 
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: "<= back to home" # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description in home page
 
-header:
-  pages:
-    - name: 首页
-      slug: /
-    - name: 根目录
-      slug: https:///i1oveyou.github.io
-footer:
-  show_powered_by: true
-  contact:
-    - type: email
-      name: Email
-      value: resmile0927@gmail.com
-    - type: wechat
-      value: wechat
-      link: "#"
-  follow:
-    - type: twitter
-      name: Twitter
-      link: https://x.com/smilere441915
-      username: "@smilere441915"
-    # - type: facebook
-    #   name: Facebook
-    #   link: http://facebook.com/YourFacebookUsername
-    # - type: linkedin
-    #   name: LinkedIn
-    #   link: http://linkedin.com/in/YourLinkedInUsername
-    - type: github
-      name: GitHub
-      link: http://github.com/i1oveyou
-    # - type: dribbble
-    #   name: Dribbble
-    #   link: https://dribbble.com/YourDribbbleUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
+sass:
+  style: :compressed
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
+  - jekyll-seo-tag
