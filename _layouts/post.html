@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{%-include back_link.html-%}
+
+<article>  
+  <h1>{{ page.title }}</h1>
+  <p><b> 
+    <span>今日诗词: </span>
+    <span id="jinrishici-sentence">正在加载今日诗词....</span>
+    <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+  </b></p>
+  {{ content }}
+</article>
