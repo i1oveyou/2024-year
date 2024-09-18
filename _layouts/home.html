@@ -4,6 +4,10 @@ layout: default
 <header>
   <h1>{{ site.title }}</h1>
   
+  {%-if site.theme_config.show_description-%}
+    <p>{{ site.description }}</p>
+  {%-endif-%}
+  
   <div id="mm_diy_info">
     <div id="weather-info">
         <p><b> 
@@ -20,10 +24,9 @@ layout: default
       <span class="jinrishici-sentence">正在加载今日诗词....</span>
     </b></p>
   </div>
-
-  {%-if site.theme_config.show_description-%}
-    <p>{{ site.description }}</p>
-  {%-endif-%}
+  <script src="{{ site.baseurl }}/assets/js/jrsc-weather.js" charset="utf-8"></script>
+  <script src="{{ site.baseurl }}/assets/js/jrsc-poetry.js" charset="utf-8"></script>
+  <script src="{{ site.baseurl }}/assets/js/main.js" charset="utf-8"></script>
 </header>
 
 {%-include menu_item.html collection=site.data.menu.entries-%}
