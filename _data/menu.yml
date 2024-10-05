@@ -14,7 +14,7 @@ entries:
     post_list:
       limit: 12
       show_more: true
-      show_more_text: See more posts...
+      show_more_text: 查看更多文章...
       show_more_url: category/archive.html
   
  
