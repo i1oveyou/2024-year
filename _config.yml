@@ -4,7 +4,7 @@ email: resmile0927@gmail.com # email of site's author
 url: https://i1oveyou.github.io # root address of the site
 baseurl: "/2024-year" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  "站点描述： 发布自己的小日常,也可以当作是流水账小作文，哈哈^_^"
+  "站点描述： 你好，我叫邓渠香（男），家住渠县，来着四川达州。在这里我会发布自己的日记（流水账作文），哈哈^_^"
 
 permalink: /:month/:day/:title
 
